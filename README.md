@@ -2,7 +2,7 @@
 
 ## Overview
 
-This analysis creates a report that includes what cryptocurrencies are on the trading market and how they could go grouped to create classification system. This analysis uses __unsupervised learning__ , so there is no known output. For that it preprocesses data to fit the machine learning models . To group cryptocurrencies , it uses clustering algorithms, reduces components using __PCA__ and uses the data visualizations. 
+This analysis creates a report that includes what cryptocurrencies are on the trading market and how they could be grouped to create classification system. This analysis uses __unsupervised learning__ , so there is no known output. For that it preprocesses data to fit the machine learning models . To group cryptocurrencies , it uses clustering algorithms, reduces components using __PCA__ and uses the data visualizations. 
 
 ## Results 
 
